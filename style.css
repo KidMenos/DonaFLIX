@@ -1,0 +1,25 @@
+
+
+body{
+color:#8A2BE2 ;
+background-color:#000000; ; 
+margin: 0px;
+margin-bottom:  100px;
+}
+
+header{
+border-bottom: solid 2px #8A2BE2;
+margin: 20px;
+font-size: 32px;
+color: #000000;
+}
+
+
+section{
+
+padding-bottom: 80px;
+padding-top: 80px;
+background: #808080;
+display: flex;
+justify-content: center;
+}
